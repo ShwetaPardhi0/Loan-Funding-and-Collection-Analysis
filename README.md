@@ -26,6 +26,16 @@ This **Power BI Dashboard** provides a comprehensive analysis of loan disburseme
 
 ---
 
+## 📈 Dashboard Preview
+
+### Loan Funded Analysis Dashboard
+![Loan Funded Dashboard](./loan_funded_dashboard.png)
+
+### Loan Collection Analysis Dashboard
+![Loan Collection Dashboard](./loan_collection_dashboard.png)
+
+---
+
 ## 📈 Dashboards Overview
 ### **1. Loan Funded Analysis Dashboard**
 - State, Region & City-wise funded amount.
